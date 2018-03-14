@@ -1,3 +1,3 @@
 # sample-project
 
-## a sample project to install jasmine, mocha and several other webpacks.
+## a sample project to install jasmine, karma and several other webpacks.
